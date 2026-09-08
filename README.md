@@ -34,7 +34,7 @@
 ## sudo systemctl status nginx
 ## Web Server Testing
 ## Accessed the Nginx default web page through the VM's public IP address
-## http://<Azure-public-IP>
+## http://40.123.193.145
 ## The nginx welcome page was successfully displayed in the browser.
 ## Network Flow-
 ## Internet 
