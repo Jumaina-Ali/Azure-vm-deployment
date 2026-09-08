@@ -68,5 +68,6 @@
 ## Project Outcome- 
 ## Successfully deployed an Ubuntu Virtual Machine in Microsoft Azure, configured network security, connected through SSH, installed Nginx, and exposed a working web page through HTTP.
 ## SCREENSHOTS -
-## 1. Resource Group - 
+## 1. Resource Group - <img width="1366" height="638" alt="resource group" src="https://github.com/user-attachments/assets/3a5470d9-d74b-4962-8668-334868b533ab" />
+
       
