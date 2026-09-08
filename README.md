@@ -71,6 +71,8 @@
 ## 1. Resource Group - <img width="1366" height="638" alt="resource group" src="https://github.com/user-attachments/assets/3a5470d9-d74b-4962-8668-334868b533ab" />
 ## 2. Virtual Machine - <img width="1366" height="632" alt="vm" src="https://github.com/user-attachments/assets/6889151a-f7c0-47c8-b6eb-9d66234b56a2" />
 ## <img width="1356" height="627" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/4445ae83-b7ac-4c79-bc4a-c32fd9447e37" />
+## <img width="1366" height="625" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/ecb19a4d-8608-414c-ab18-6a319fa63a5c" />
+
 
 
 
