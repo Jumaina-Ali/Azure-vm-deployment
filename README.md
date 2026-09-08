@@ -72,7 +72,9 @@
 ## 2. Virtual Machine - <img width="1366" height="632" alt="vm" src="https://github.com/user-attachments/assets/6889151a-f7c0-47c8-b6eb-9d66234b56a2" />
 ## <img width="1356" height="627" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/4445ae83-b7ac-4c79-bc4a-c32fd9447e37" />
 ## <img width="1366" height="625" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/ecb19a4d-8608-414c-ab18-6a319fa63a5c" />
-## <img width="1364" height="639" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/730cee9e-2f9b-4384-b5c3-0c3e497438ab" />
+## <img width="1364" height="639" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/730cee9e-2f9b-4384-b5c3-0c3e497438ab" /> 
+## <img width="1358" height="677" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/08cea114-5f6e-4b6f-97ea-76f7f9352b85" />
+
 
 
 
